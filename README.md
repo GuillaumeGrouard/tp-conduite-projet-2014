@@ -64,4 +64,6 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * -Guillaume Grouard
 * Tony Merrien.
 * Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
 
